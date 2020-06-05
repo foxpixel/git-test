@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this for testing",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxpixel/git-test.git"
+  },
+  "author": "mohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxpixel/git-test/issues"
+  },
+  "homepage": "https://github.com/foxpixel/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
